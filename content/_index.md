@@ -15,4 +15,4 @@ I'm a Japanese language education student who is also passionate about programmi
 
 ---
 
-「君の夢はあたしの夢、あたしの夢も君の夢だ。ずっと君のそばにいってから、あの広がる空へ飛んで行こう、ユメカちゃん！」
+「君の夢はあたしの夢、あたしの夢も君の夢だ。ずっと君のそばにいってので、あの広がる空へ飛んで行こう、ユメカちゃん！」
