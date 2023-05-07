@@ -11,7 +11,7 @@ I'm a Japanese language education student who is also passionate about programmi
 ###  SNS
 - [Github](https://github.com/yumekarisu)
 - [Art Instagram](https://www.instagram.com/yumekarisu/)
-- [Pixiv](pixiv.net/en/users/58210704)
+- [Pixiv](https://pixiv.net/en/users/58210704)
 
 ---
 
