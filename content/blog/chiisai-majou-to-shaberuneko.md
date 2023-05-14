@@ -38,6 +38,18 @@ tags = []
 
 薪が十分集まった後、あたしは近くに積まれた雪の山を掘っていた。でも、何も見つけなかった。今日も五年間毎日が同じのように見えた。
 
+「も何もないかな」あたしは地上に座って落ちた。何も話さなくて冬の空へ見上げてしばらく、痛い気持ちが感じた。長い間、あたしはそこに寝て動いていない。空が晴れだけど、なぜ雨があたしの顔を濡らした。
+
+「嘘だよ？彼らはマイラを見捨てられないよね〜」
+
+寝ている間に、後ろから変な音が聞こえた。その時、あたしはさっそく立っていて後ろへ見た。右手が開くてあたしの口は魔法を言っていた。
+
+「カーテンファイア：ファイアボール！」しばらく、あたしの右手に丸の様に火が現れた。そして、その火は変な音の方向へ投げた。とつじょ、驚きな叫びが聞こえた。木の後ろから黒猫が歩き出してあたしに叫んだ。
+
+「おい、お嬢ちゃん！あの火は私がほとんど殺されたよ！」
+
+「わあ！猫が喋った！」
+
 ---
 
  <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
