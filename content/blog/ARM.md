@@ -1,7 +1,6 @@
 +++
 title = "ARM"
 date = "2023-05-14T13:43:04+07:00"
-draft = true
 #
 # description is optional
 #
