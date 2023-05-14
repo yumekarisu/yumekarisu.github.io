@@ -1,7 +1,7 @@
 +++
 title = "小さい魔女としゃべる猫"
 date = "2023-05-12T09:32:06+07:00"
-
+draft = true
 #
 # description is optional
 #
