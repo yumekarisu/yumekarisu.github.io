@@ -9,7 +9,7 @@ draft = true
 
 tags = []
 +++
-![cover](/blog/chiisaimajo.png)
+![cover](/blog/chiisai-majou-to-shaberuneko/chiisaimajo.png)
 
 子供の頃から、あたしはいつも魔女が憧れている。寝る前、ママとパパは最高の魔女、シャルロット様の話を言っていた。彼女は闇から世界を救って人を団結させた。百年前出来
 事 だ けど、今までもシャルロット様には人々が尊敬している。その人々もあたしだ。
